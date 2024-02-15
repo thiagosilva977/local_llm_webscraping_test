@@ -23,3 +23,6 @@ through the windows folder window settings, I made the hidden folders and files 
 In order for python to see the path to poetry, I copied poetry.exe from the spot C:\Users\user\AppData\Roaming\Python\Scripts in the python work environment at: C:\Users\user\AppData\Local\Programs\Python\Python310\Scripts this way.
 
 Pip also lies in Local. The problem was solved and the command in powershell poetry --version showed the poetry version. I hope this will help you!
+
+## About CUDA
+https://medium.com/@piyushbatra1999/installing-llama-cpp-python-with-nvidia-gpu-acceleration-on-windows-a-short-guide-0dfac475002d
