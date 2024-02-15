@@ -25,4 +25,9 @@ In order for python to see the path to poetry, I copied poetry.exe from the spot
 Pip also lies in Local. The problem was solved and the command in powershell poetry --version showed the poetry version. I hope this will help you!
 
 ## About CUDA
+
 https://medium.com/@piyushbatra1999/installing-llama-cpp-python-with-nvidia-gpu-acceleration-on-windows-a-short-guide-0dfac475002d
+
+depois 
+
+https://anaconda.org/conda-forge/cudatoolkit-dev
